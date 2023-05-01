@@ -12,4 +12,5 @@ This application allows users to efficiently generate a REAMDE file for a projec
 - When all questions are answered, the message "Success!" will appear.
 - The user will see a new README.md file in the same directory they are in containing all the information that was inputted.
 
-## Walkthrough Video of README Generator
+## Walkthrough Video
+https://drive.google.com/file/d/12OnofVxA3aQszATBRDNm93gSVNgXUa5i/view
